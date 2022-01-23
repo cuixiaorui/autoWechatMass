@@ -1,0 +1,10 @@
+{
+  "openWeChat": {
+    "key": "i",
+    "modified": "alt"
+  },
+  "findInWeChat": {
+    "key": "f",
+    "modified": "command"
+  }
+}
